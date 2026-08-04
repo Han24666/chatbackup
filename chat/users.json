@@ -4,5 +4,11 @@
     "nickname": "preseed",
     "passwordHash": "$2a$10$BagSmw2vZLnYY6.IKzi6reS3CJIoFREbtsCb.gtcPO7xUKXgGmx/.",
     "createdAt": 1785834919116
+  },
+  "han24666": {
+    "username": "han24666",
+    "nickname": "han24666",
+    "passwordHash": "$2a$10$0.UATgQPAd9beKCg1f6J0eMmuxxGLi5NslJ1v8kZ/bQpG62mNNdk6",
+    "createdAt": 1785835053889
   }
 }
