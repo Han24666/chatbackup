@@ -1,1 +1,8 @@
-{}
+{
+  "preseed": {
+    "username": "preseed",
+    "nickname": "preseed",
+    "passwordHash": "$2a$10$BagSmw2vZLnYY6.IKzi6reS3CJIoFREbtsCb.gtcPO7xUKXgGmx/.",
+    "createdAt": 1785834919116
+  }
+}
